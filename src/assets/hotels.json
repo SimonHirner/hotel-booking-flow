@@ -8,7 +8,7 @@
       "rating": 5,
       "ratingCount": 100,
       "location": "China",
-      "image": "assets/hotel1.jpg"
+      "image": "assets/hotel1.webp"
     },
     {
       "id": "1235",
@@ -18,7 +18,7 @@
       "rating": 3,
       "ratingCount": 150,
       "location": "Costa Rica",
-      "image": "assets/hotel2.jpg"
+      "image": "assets/hotel2.webp"
     },
     {
       "id": "1236",
@@ -28,7 +28,7 @@
       "rating": 2,
       "ratingCount": 200,
       "location": "England",
-      "image": "assets/hotel3.jpg"
+      "image": "assets/hotel3.webp"
     },
     {
       "id": "1237",
@@ -38,7 +38,7 @@
       "rating": 4,
       "ratingCount": 400,
       "location": "Canada",
-      "image": "assets/hotel4.jpg"
+      "image": "assets/hotel4.webp"
     },
     {
       "id": "1238",
@@ -48,7 +48,7 @@
       "rating": 5,
       "ratingCount": 350,
       "location": "France",
-      "image": "assets/hotel5.jpg"
+      "image": "assets/hotel5.webp"
     }
   ]
 }
