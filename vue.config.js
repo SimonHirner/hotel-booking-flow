@@ -18,7 +18,6 @@ module.exports = {
       app.use('*.js', (req, res, next) => {
         if (req.get('Accept-Encoding')?.includes('br')) {
           req.url += '.br'
-
           res.set('Content-Encoding', 'br')
           res.set('Content-Type', 'application/javascript; charset=utf-8')
         }
